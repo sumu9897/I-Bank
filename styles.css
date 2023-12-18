@@ -21,6 +21,17 @@ time, mark, audio, video {
     box-sizing: border-box;
 }
 
+#login-error {
+    font-size: 0.8rem;
+}
+
+.success-message {
+    color: #4caf50;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+
 /* Global styles */
 body {
     font-family: 'Arial', sans-serif;
